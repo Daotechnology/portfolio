@@ -1,6 +1,6 @@
-# Firewall ? Olajide Oladapo Ayomide
+# Build with Ayomide ? Portfolio & MVP Development
 
-Responsive portfolio and installable PWA for Olajide Oladapo Ayomide, a Lagos-based software engineer and founder.
+Client-focused software development website, portfolio, and installable PWA for Olajide Oladapo Ayomide, a Lagos-based software engineer and founder.
 
 ## Features
 
@@ -29,3 +29,15 @@ Run node review.mjs on Windows with Chrome installed. It checks responsive layou
 Projects: Chekker, Gabbi Health, GabbiDoc, ACTA, ChallengeMe, BuildKids, VEER, Qoray, and Intervia. Web-project screenshots are captured public pages or local app previews. Gabbi Health and Qoray show public sign-in screens. GabbiDoc uses a clearly labeled illustrative conversation with no patient data. Claims are based on owner-supplied information, inspected code, or public product pages.
 
 The inquiry form does not send automatically or store contact details: visitors review and send the draft in their email app. Offline mode does not provide connectivity for email delivery or external sites. Browser install support varies.
+
+## Client acquisition pages
+
+The homepage leads with MVP, business-software, and AI-integration services. Three proof cards show ACTA, ChallengeMe, and Chekker near the main WhatsApp CTA. /build-your-mvp/ is a focused landing page for founder/MVP campaigns; /story.html preserves the personal journey separately. /privacy.html describes inquiry handoff, offline caching, and optional measurement.
+
+The quick form asks for name, contact, project idea, and optional budget. It prepares a WhatsApp message; visitors must review and send it. Email and copy fallbacks are included. The full email brief remains under an expandable section on the homepage.
+
+Campaign UTMs are preserved in prepared messages. sales.js emits contact_intent events to window.dataLayer and a browser CustomEvent, without form text or contact fields. There is no analytics backend or confirmed-lead pipeline. marketing-config.js has a null Meta Pixel ID; adding an owner-supplied ID enables the consent-gated integration. ContactIntent is not a Lead or delivered inquiry. No advertising campaign is created by this repository.
+
+See marketing/AD-TEST-PLAN.md for two creative concepts, sample tagged links, qualification questions, budget boundaries, and measurement instructions. marketing/lead-log.csv is a blank template. Store actual customer records outside this repository. Genuine testimonials can be added after owner approval; none are invented.
+
+Run node review-sales.mjs for homepage/landing responsive checks, short-form WhatsApp/email payloads, UTM handoff, no inquiry PII in custom events, disabled-Pixel behavior, offline landing loading, and supporting-page runtime checks.

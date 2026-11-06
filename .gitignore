@@ -7,3 +7,5 @@ review/
 node_modules/
 *.pem
 *.key
+
+marketing/*actual*.csv
