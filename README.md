@@ -1,9 +1,9 @@
-# Product Builder Portfolio
+# Firewall Portfolio
 
-Static portfolio in `dist/`. Open with a static server. No build or dependencies required.
+Portfolio for Olajide Oladapo Ayomide, Lagos, Nigeria. Owner-supplied identity, professional titles, 6+ years experience, personal journey, contact details, and project destinations.
 
-Content covers the five distinct products found in MyWork: Gabbi Health, Chekker, Acta, ChallengeMe, and BuildKids. Companion backend and frontend repositories are grouped by product. Personal name, career dates, exact role attribution, contact links, and personal experiences await the owner's confirmation. No experience duration or business results are asserted.
+Eight products: Chekker, Gabbi Health, ACTA, ChallengeMe, BuildKids, VEER, Qoray, Intervia. Chekker uses a local app screenshot; ACTA uses a labeled repository design reference. Other previews are illustrative. No unprovided employment dates, business results, or exact role attribution are asserted. External site availability is not guaranteed.
 
-Chekker uses a local review screenshot; Acta uses a clearly labeled repository design reference. Other previews are illustrative and labeled. Personal photos copied only from user-supplied paths. Secrets and environment files were excluded.
+Static site in dist/; no build dependencies. Edit dist/index.html, dist/style.css, dist/app.js. Email, WhatsApp, phone, GitHub, and LinkedIn links are included. Optional project brief downloads a file and does not send a message. Additional supplied videos await review and selection.
 
-Edit project content in `dist/app.js`, layout in `dist/index.html`, and styles in `dist/style.css`. Add approved photos and videos to `dist/assets/` and reference them in the page. Remaining supplied videos are not published pending visual review and selection. The project-brief form downloads a text file and does not send inquiries. Add a verified contact address before a public launch.
+Run node review.mjs on Windows with Chrome to verify desktop/mobile layout, images, filters, contact link, and project dialog. Screenshots are saved in ignored review/.
