@@ -10,3 +10,6 @@ Run node review.mjs on Windows with Chrome to verify desktop/mobile layout, imag
 
 
 Media correction: GabbiDoc added as the ninth project based on gabbipaddi.module and gabbidocAdmin.module. Its WhatsApp preview is explicitly illustrative and contains no patient data. ACTA now uses a live public homepage screenshot. Gabbi Health uses actual public EHR and patient sign-in screenshots, with a full-size gallery in its case study. Captured November 6, 2026 in an unauthenticated browser.
+
+
+Visual project previews: ChallengeMe, VEER, Intervia use captured public homepage and feature sections; Qoray uses its real public sign-in; BuildKids uses the local running application. All eight web products have screenshots and galleries. GabbiDoc remains an explicitly labeled illustrative conversation. Project cards show challenges and approaches; detailed case studies add what was built. ChallengeMe concurrency and payout discussion is grounded in the repository tests; no throughput or revenue outcomes are claimed.
