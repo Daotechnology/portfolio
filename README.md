@@ -16,3 +16,8 @@ Visual project previews: ChallengeMe, VEER, Intervia use captured public homepag
 
 
 Project inquiry form: collects visitor contact details, idea, goals/features, approach, timeline, budget, and links. Builds an encoded mailto draft addressed to daotechnology18@gmail.com. The visitor reviews and sends through their own email app; no server delivery is claimed. Copyable text and a Gmail compose fallback are included. Inquiry data is not persisted by the website.
+
+
+PWA: manifest.webmanifest, branded icons, service worker, browser install button, iPhone instructions, offline indicator, explicit update button. Offline shell and viewed images cache on the same origin; external links and email delivery need connectivity. Inquiry form contents are not cached or stored. Browser installation availability varies.
+
+Hosting: deploy the contents of dist/ to an HTTPS static host such as Cloudflare Pages or Netlify. No build command or server is needed. Keep the current Sites hosting manifest for Sites deployments. For manual hosting, upload dist contents with index.html at the deployment root.
