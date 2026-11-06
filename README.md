@@ -13,3 +13,6 @@ Media correction: GabbiDoc added as the ninth project based on gabbipaddi.module
 
 
 Visual project previews: ChallengeMe, VEER, Intervia use captured public homepage and feature sections; Qoray uses its real public sign-in; BuildKids uses the local running application. All eight web products have screenshots and galleries. GabbiDoc remains an explicitly labeled illustrative conversation. Project cards show challenges and approaches; detailed case studies add what was built. ChallengeMe concurrency and payout discussion is grounded in the repository tests; no throughput or revenue outcomes are claimed.
+
+
+Project inquiry form: collects visitor contact details, idea, goals/features, approach, timeline, budget, and links. Builds an encoded mailto draft addressed to daotechnology18@gmail.com. The visitor reviews and sends through their own email app; no server delivery is claimed. Copyable text and a Gmail compose fallback are included. Inquiry data is not persisted by the website.
