@@ -1,2 +1,9 @@
 review/
 *.tar.gz
+*.zip
+.env
+.env.*
+!.env.example
+node_modules/
+*.pem
+*.key
